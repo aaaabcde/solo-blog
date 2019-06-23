@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java 版必应每日桌面壁纸设置工具，支持 Windows 和 macOS](https://zixizixi.cn/windows-mac-bing-daily-wallpaper-tool)
 * [参与者公约](https://zixizixi.cn/contributor-covenant-code-of-conduct)
 * [离线安装 VSCode 扩展组件方法及批量安装脚本分享](https://zixizixi.cn/vscode-extension-vsix-install)
 * [我的开源](https://zixizixi.cn/my-github-repos)
@@ -29,7 +30,6 @@
 * [Java 反射：通过 getField() 设置公共全局变量](https://zixizixi.cn/java-reflection-getfield)
 * [小记：在不打开 Xcode 的情况下独立启动 Simulator 模拟器](https://zixizixi.cn/not-open-xcode-standalone-simulator)
 * [Windows 系统下将 Wildfly 安装为系统服务，随系统开机自动启动](https://zixizixi.cn/windows-wildfly-service-auto-start)
-* [Jsp 反向代理](https://zixizixi.cn/jsp-forward)
 
 ### 热门
 
@@ -60,19 +60,19 @@
 * [评论框图片表情输入工具分享](https://zixizixi.cn/articles/2017/03/25/1490440829595.html)
 * [友链申请](https://zixizixi.cn/befriendswithme.html)
 * [流水账之再回成都 - 2017-04-12](https://zixizixi.cn/articles/2017/04/12/1492010071830.html)
-* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
-* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
+* [Hello World! 这是一个测试博客](https://zixizixi.cn/hello-solo)
+* [我的阅读列表](https://zixizixi.cn/articles/2017/04/06/1491491255441.html)
+* [Jsp 反向代理](https://zixizixi.cn/jsp-forward)
 * [在线工具开发计划](https://zixizixi.cn/todolist-α)
 * [【成都 - 赵雷】睡不着，手打一遍歌词玩玩。](https://zixizixi.cn/articles/2017/03/13/1489412508294.html)
 * [我到底在纠结什么](https://zixizixi.cn/articles/2017/04/05/1491368462456.html)
-* [Hello World! 这是一个测试博客](https://zixizixi.cn/hello-solo)
-* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 * [macOS终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
+* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
+* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
-* [阿里巴巴Java开发规范手册之编程规约](https://zixizixi.cn/articles/2017/02/22/1487756980205.html)
-* [我的阅读列表](https://zixizixi.cn/articles/2017/04/06/1491491255441.html)
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 
 ---
