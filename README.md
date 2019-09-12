@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Windows 下 VSCode 使用 SSH 连接报 Bad owner or permissions on C:\\Users\\Administrator/.ssh/config 错误问题解决](https://zixizixi.cn/windows_vscode_ssh_error_bad-owner-or-permissions)
 * [Ubuntu 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-install-gitlab)
 * [低版本浏览器（IE6+）页面兼容性问题相关处理](https://zixizixi.cn/low-version-browser-page-compatibility)
 * [Wildfly/JBoss EAP 高可用负载均衡配置](https://zixizixi.cn/wildfly-jboss-eap-ha-load-balance)
@@ -29,7 +30,6 @@
 * [梦](https://zixizixi.cn/articles/2019/02/09/1549668456783.html)
 * [Windows 搭建 Maven 私服](https://zixizixi.cn/articles/2019/01/22/1548134072865.html)
 * [【译文】Java CPU 和 PSU 版本说明](https://zixizixi.cn/java-CPU-and-PSU-releases-explained)
-* [Save](https://zixizixi.cn/cloudfiles)
 
 ### 热门
 
@@ -62,20 +62,20 @@
 * [友链申请](https://zixizixi.cn/befriendswithme.html)
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 * [流水账之再回成都 - 2017-04-12](https://zixizixi.cn/articles/2017/04/12/1492010071830.html)
+* [Save](https://zixizixi.cn/cloudfiles)
+* [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
 * [在线工具开发计划](https://zixizixi.cn/todolist-α)
 * [【成都 - 赵雷】睡不着，手打一遍歌词玩玩。](https://zixizixi.cn/articles/2017/03/13/1489412508294.html)
 * [我到底在纠结什么](https://zixizixi.cn/articles/2017/04/05/1491368462456.html)
 * [Jsp 反向代理](https://zixizixi.cn/jsp-forward)
-* [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
-* [【笔记】paper-audio-player](https://zixizixi.cn/paper-audio-player-readme)
 * [心知天气](https://zixizixi.cn/weather)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [我的阅读列表](https://zixizixi.cn/articles/2017/04/06/1491491255441.html)
 * [macOS终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
-* [Hello World! 这是一个测试博客](https://zixizixi.cn/hello-solo)
 
 ---
 
