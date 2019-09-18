@@ -1,4 +1,4 @@
-<p align="center"><img alt="子兮子兮" src="/images/logo/logo@96.png"></p><h2 align="center">
+<p align="center"><img alt="子兮子兮" src="https://zixizixi.cn/images/logo/logo@96.png"></p><h2 align="center">
 子兮子兮
 </h2>
 
@@ -45,8 +45,8 @@
 * [Java 反射：通过 getField() 设置公共全局变量](https://zixizixi.cn/java-reflection-getfield)
 * [提问：以下 Java 代码如何精简，或用其他语言用尽可能少的代码来实现](https://zixizixi.cn/java-word-wrap-string)
 * [阿里巴巴 Android 开发手册分享](https://zixizixi.cn/alibaba-android-development-manual)
-* [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
 * [修改Windows系统远程端口](https://zixizixi.cn/articles/2017/03/26/1490525740291.html)
+* [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
 * [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
 * [小记：在不打开 Xcode 的情况下独立启动 Simulator 模拟器](https://zixizixi.cn/not-open-xcode-standalone-simulator)
 * [Android Studio 提示 Unable to access Android SDK add-on list 问题处理](https://zixizixi.cn/articles/2017/01/17/1484665018593.html)
@@ -61,21 +61,21 @@
 * [评论框图片表情输入工具分享](https://zixizixi.cn/articles/2017/03/25/1490440829595.html)
 * [友链申请](https://zixizixi.cn/befriendswithme.html)
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [流水账之再回成都 - 2017-04-12](https://zixizixi.cn/articles/2017/04/12/1492010071830.html)
 * [Save](https://zixizixi.cn/cloudfiles)
-* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
-* [macOS终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
-* [在线工具开发计划](https://zixizixi.cn/todolist-α)
+* [流水账之再回成都 - 2017-04-12](https://zixizixi.cn/articles/2017/04/12/1492010071830.html)
+* [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
+* [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
+* [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
+* [在线工具开发计划](https://zixizixi.cn/todolist-α)
 * [我到底在纠结什么](https://zixizixi.cn/articles/2017/04/05/1491368462456.html)
 * [Jsp 反向代理](https://zixizixi.cn/jsp-forward)
 * [【笔记】paper-audio-player](https://zixizixi.cn/paper-audio-player-readme)
-* [心知天气](https://zixizixi.cn/weather)
 * [Hello World! 这是一个测试博客](https://zixizixi.cn/hello-solo)
-* [【成都 - 赵雷】睡不着，手打一遍歌词玩玩。](https://zixizixi.cn/articles/2017/03/13/1489412508294.html)
-* [我的阅读列表](https://zixizixi.cn/articles/2017/04/06/1491491255441.html)
-* [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
+* [心知天气](https://zixizixi.cn/weather)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
+* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
+* [macOS终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 
 ---
 
