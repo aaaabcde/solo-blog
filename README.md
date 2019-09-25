@@ -48,7 +48,7 @@
 * [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
 * [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
-* [macOS终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
+* [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
