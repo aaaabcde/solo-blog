@@ -12,7 +12,7 @@
 
 * [Sonatype Nexus: Recommended file descriptor limit is 65536 but count is 4096.](https://zixizixi.cn/sonatype-nexus-3-linux-file-descriptor-limit)
 * [Windows 下 VSCode 使用 SSH 连接报 Bad owner or permissions on C:\\Users\\Administrator/.ssh/config 错误问题解决](https://zixizixi.cn/windows_vscode_ssh_error_bad-owner-or-permissions)
-* [Ubuntu 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-install-gitlab)
+* [Ubuntu/CentOS 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-centos-linux-install-gitlab)
 * [低版本浏览器（IE6+）页面兼容性问题相关处理](https://zixizixi.cn/low-version-browser-page-compatibility)
 * [在 Windows 10 系统上运行程序缓慢的解决办法](https://zixizixi.cn/windows-defender-app-startup-stop-slow)
 * [Java 版必应每日桌面壁纸设置工具，支持 Windows 和 macOS](https://zixizixi.cn/windows-mac-bing-daily-wallpaper-tool)
