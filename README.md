@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
 * [Sonatype Nexus: Recommended file descriptor limit is 65536 but count is 4096.](https://zixizixi.cn/sonatype-nexus-3-linux-file-descriptor-limit)
 * [Windows 下 VSCode 使用 SSH 连接报 Bad owner or permissions on C:\\Users\\Administrator/.ssh/config 错误问题解决](https://zixizixi.cn/windows_vscode_ssh_error_bad-owner-or-permissions)
 * [Ubuntu/CentOS 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-centos-linux-install-gitlab)
@@ -29,7 +30,6 @@
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
 * [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
 * [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
-* [JavaScript 模糊查询字符串/数组、日期时间格式化等方法](https://zixizixi.cn/articles/2017/05/31/1496236546844.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@
 * [在 Windows 系统下常用的 bat 脚本分享](https://zixizixi.cn/articles/2017/04/21/1492777994685.html)
 * [猿圈网的几个Java挑战题评测题分享](https://zixizixi.cn/articles/2017/03/23/1490280007138.html)
 * [Java Web 开发中一些实用的技术点](https://zixizixi.cn/articles/2017/01/04/1483519918704.html)
+* [JavaScript 模糊查询字符串/数组、日期时间格式化等方法](https://zixizixi.cn/articles/2017/05/31/1496236546844.html)
 * [阿里巴巴 Java 开发规范手册分享](https://zixizixi.cn/articles/2017/01/17/1484623303271.html)
 * [Solo 在线人数显示一直为 2 问题处理](https://zixizixi.cn/articles/2017/03/30/1490849602140.html)
 * [个人工具网站 itanken.cn 小工具相关说明](https://zixizixi.cn/articles/2017/03/11/1489227107307.html)
@@ -52,9 +53,10 @@
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
+
+### 热议
+
 * [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
-
-
 
 ---
 
