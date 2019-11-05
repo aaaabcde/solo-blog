@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 * [Git 临时储藏本地变更的 stash 命令常见用法](https://zixizixi.cn/git-bash-stash-usage)
 * [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
 * [Sonatype Nexus: Recommended file descriptor limit is 65536 but count is 4096.](https://zixizixi.cn/sonatype-nexus-3-linux-file-descriptor-limit)
@@ -29,7 +30,6 @@
 * [B3log Solo 第三方皮肤 - 子兮子兮 - README](https://zixizixi.cn/solo-third-skin-imobile.html)
 * [提问：以下 Java 代码如何精简，或用其他语言用尽可能少的代码来实现](https://zixizixi.cn/java-word-wrap-string)
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
-* [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@
 * [个人工具网站 itanken.cn 小工具相关说明](https://zixizixi.cn/articles/2017/03/11/1489227107307.html)
 * [修改Windows系统远程端口](https://zixizixi.cn/articles/2017/03/26/1490525740291.html)
 * [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
+* [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
 * [Android Studio 提示 Unable to access Android SDK add-on list 问题处理](https://zixizixi.cn/articles/2017/01/17/1484665018593.html)
 * [Java 常见面试题及答案](https://zixizixi.cn/articles/2017/02/13/1486974778312.html)
 * [使用阿里云的maven镜像解决国内使用maven速度慢的问题](https://zixizixi.cn/articles/2017/02/13/1486979524858.html)
@@ -52,10 +53,10 @@
 * [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
-* [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 
 ### 热议
 
+* [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 * [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 
