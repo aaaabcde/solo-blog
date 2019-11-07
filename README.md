@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
 * [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 * [Git 临时储藏本地变更的 stash 命令常见用法](https://zixizixi.cn/git-bash-stash-usage)
 * [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
@@ -29,7 +30,6 @@
 * [阿里巴巴 Android 开发手册分享](https://zixizixi.cn/alibaba-android-development-manual)
 * [B3log Solo 第三方皮肤 - 子兮子兮 - README](https://zixizixi.cn/solo-third-skin-imobile.html)
 * [提问：以下 Java 代码如何精简，或用其他语言用尽可能少的代码来实现](https://zixizixi.cn/java-word-wrap-string)
-* [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
 
 ### 热门
 
@@ -51,14 +51,15 @@
 * [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
 * [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
+* [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 
 ### 热议
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
+* [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 
 ---
 
