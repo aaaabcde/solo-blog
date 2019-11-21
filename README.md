@@ -57,10 +57,10 @@
 ### 热议
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 * [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
+* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
+* [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 
 ---
 
