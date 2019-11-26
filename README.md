@@ -43,8 +43,8 @@
 * [个人工具网站 itanken.cn 小工具相关说明](https://zixizixi.cn/articles/2017/03/11/1489227107307.html)
 * [提问：以下 Java 代码如何精简，或用其他语言用尽可能少的代码来实现](https://zixizixi.cn/java-word-wrap-string)
 * [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
-* [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
 * [修改Windows系统远程端口](https://zixizixi.cn/articles/2017/03/26/1490525740291.html)
+* [Java 版下载必应每日壁纸并自动设置 Windows 系统桌面（改编自 C# 版）](https://zixizixi.cn/articles/2017/09/01/1504264675391.html)
 * [Android Studio 提示 Unable to access Android SDK add-on list 问题处理](https://zixizixi.cn/articles/2017/01/17/1484665018593.html)
 * [Java 常见面试题及答案](https://zixizixi.cn/articles/2017/02/13/1486974778312.html)
 * [使用阿里云的maven镜像解决国内使用maven速度慢的问题](https://zixizixi.cn/articles/2017/02/13/1486979524858.html)
@@ -58,9 +58,9 @@
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 
 ---
 
