@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [(My)Eclipse 中的 Java 项目使用 .jardesc 文件快速导出 jar 包文件](https://zixizixi.cn/my-eclipse-java-jardesc-export-jar)
 * [Java 版 Unicode 编码和字符串互转，支持混合内容解码](https://zixizixi.cn/java-unicode-string-encoder-decoder)
 * [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
 * [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
@@ -29,10 +30,10 @@
 * [小记：在不打开 Xcode 的情况下独立启动 Simulator 模拟器](https://zixizixi.cn/not-open-xcode-standalone-simulator)
 * [Windows 系统下将 Wildfly 安装为系统服务，随系统开机自动启动](https://zixizixi.cn/windows-wildfly-service-auto-start)
 * [阿里巴巴 Android 开发手册分享](https://zixizixi.cn/alibaba-android-development-manual)
-* [B3log Solo 第三方皮肤 - 子兮子兮 - README](https://zixizixi.cn/solo-third-skin-imobile.html)
 
 ### 热门
 
+* [B3log Solo 第三方皮肤 - 子兮子兮 - README](https://zixizixi.cn/solo-third-skin-imobile.html)
 * [实用网站分享：全栈开发可能需要用到的网站](https://zixizixi.cn/articles/2017/01/17/1484633274661.html)
 * [在 Windows 系统下常用的 bat 脚本分享](https://zixizixi.cn/articles/2017/04/21/1492777994685.html)
 * [猿圈网的几个Java挑战题评测题分享](https://zixizixi.cn/articles/2017/03/23/1490280007138.html)
@@ -52,15 +53,15 @@
 * [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
-* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 
 ### 热议
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 * [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
+* [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 
 ---
 
