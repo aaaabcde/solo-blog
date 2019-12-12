@@ -60,8 +60,8 @@
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
 * [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
-* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 
 ---
 
