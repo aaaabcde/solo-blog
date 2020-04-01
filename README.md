@@ -11,7 +11,7 @@
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/iTanken/solo-blog.svg"></a></p>
 
-### 最新 ``
+### 最新
 
 * [(My)Eclipse 中的 Java 项目使用 .jardesc 文件快速导出 jar 包文件](https://zixizixi.cn/my-eclipse-java-jardesc-export-jar)
 * [Java 版 Unicode 编码和字符串互转，支持混合内容解码](https://zixizixi.cn/java-unicode-string-encoder-decoder)
@@ -68,4 +68,4 @@
 
 ---
 
-~~本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️  ~~
+© 2020 [子兮子兮](https://zixizixi.cn/)
