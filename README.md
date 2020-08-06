@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
 * [为 Solo 添加文章内容过期提醒](https://zixizixi.cn/solo-article-content-expired-tips)
 * [File Browser 文件浏览器 Dark Theme 暗黑模式主题样式分享](https://zixizixi.cn/filebrowser-custom-dark-theme)
@@ -29,7 +30,6 @@
 * [【笔记】Java 调用 COM 组件之 com4j 使用说明](https://zixizixi.cn/note-java-com4j)
 * [CaddyServer 反向代理和 HTTPS 的相关使用介绍](https://zixizixi.cn/caddyserver-r-proxy-https)
 * [Wildfly 跨域相关响应头配置](https://zixizixi.cn/wildfly-cors-origin-config)
-* [Java 反射：通过 getField() 设置公共全局变量](https://zixizixi.cn/java-reflection-getfield)
 
 ### 热门
 
@@ -42,6 +42,7 @@
 * [JavaScript 模糊查询字符串/数组、日期时间格式化等方法](https://zixizixi.cn/articles/2017/05/31/1496236546844.html)
 * [Solo 在线人数显示一直为 2 问题处理](https://zixizixi.cn/articles/2017/03/30/1490849602140.html)
 * [个人工具网站 itanken.cn 小工具相关说明](https://zixizixi.cn/articles/2017/03/11/1489227107307.html)
+* [Java 反射：通过 getField() 设置公共全局变量](https://zixizixi.cn/java-reflection-getfield)
 * [小记：在不打开 Xcode 的情况下独立启动 Simulator 模拟器](https://zixizixi.cn/not-open-xcode-standalone-simulator)
 * [纯 Java 开发 WebService 调用测试工具（wsCaller.jar）](https://zixizixi.cn/articles/2017/09/03/1504426270766.html)
 * [阿里巴巴 Android 开发手册分享](https://zixizixi.cn/alibaba-android-development-manual)
@@ -52,17 +53,17 @@
 * [Windows 系统下将 Wildfly 安装为系统服务，随系统开机自动启动](https://zixizixi.cn/windows-wildfly-service-auto-start)
 * [Java 常见面试题及答案](https://zixizixi.cn/articles/2017/02/13/1486974778312.html)
 * [Windows下 Tomcat 运行 PHP 的配置](https://zixizixi.cn/articles/2017/02/13/1486976473999.html)
-* [使用阿里云的maven镜像解决国内使用maven速度慢的问题](https://zixizixi.cn/articles/2017/02/13/1486979524858.html)
 
 ### 热议
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
-* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
+* [使用阿里云的maven镜像解决国内使用maven速度慢的问题](https://zixizixi.cn/articles/2017/02/13/1486979524858.html)
 * [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
+* [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
 * [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
 
