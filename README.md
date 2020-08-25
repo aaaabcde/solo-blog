@@ -57,15 +57,15 @@
 ### 热议
 
 * [Java上传安卓apk安装包后获取应用的名称、包名、版本、图标等信息](https://zixizixi.cn/articles/2017/02/13/1486978892155.html)
-* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
 * [macOS 终端命令](https://zixizixi.cn/articles/2017/02/13/1486978228421.html)
-* [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
+* [【笔记】HTTP 状态码说明](https://zixizixi.cn/articles/2017/01/04/1483529323782.html)
+* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
 * [使用 javap 命令查看 class 文件 JDK 编译版本，避免 Unsupported major.minor version 异常](https://zixizixi.cn/articles/2017/09/13/1505285468516.html)
 * [使用阿里云的maven镜像解决国内使用maven速度慢的问题](https://zixizixi.cn/articles/2017/02/13/1486979524858.html)
 * [XSLT函数集合：数值函数、字符串函、节点集函数和布尔函数](https://zixizixi.cn/xsltfunctionset)
-* [Git常用命令说明](https://zixizixi.cn/articles/2017/02/13/1486973158671.html)
-* [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
+* [Java实现面试常考的算法](https://zixizixi.cn/articles/2017/02/13/1486979370718.html)
 * [Windows下Nginx整合Tomcat和Jetty并通过两个域名分别访问](https://zixizixi.cn/articles/2017/02/13/1486977986468.html)
+* [Tomcat 配置访问权限：白名单和黑名单](https://zixizixi.cn/articles/2017/02/13/1486977779249.html)
 
 ---
 
