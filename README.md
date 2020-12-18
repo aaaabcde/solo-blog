@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
 * [为 Solo 添加文章内容过期提醒](https://zixizixi.cn/solo-article-content-expired-tips)
@@ -29,7 +30,6 @@
 * [离线安装 VSCode 扩展组件方法及批量安装脚本分享](https://zixizixi.cn/vscode-extension-vsix-install)
 * [【笔记】Java 调用 COM 组件之 com4j 使用说明](https://zixizixi.cn/note-java-com4j)
 * [CaddyServer 反向代理和 HTTPS 的相关使用介绍](https://zixizixi.cn/caddyserver-r-proxy-https)
-* [Wildfly 跨域相关响应头配置](https://zixizixi.cn/wildfly-cors-origin-config)
 
 
 
