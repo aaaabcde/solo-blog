@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 * [从 JDK11 中提取 JRE](https://zixizixi.cn/jlink-jdk11-extract-jre11)
 * [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
@@ -29,7 +30,6 @@
 * [在 Windows 10 系统上运行程序缓慢的解决办法](https://zixizixi.cn/windows-defender-app-startup-stop-slow)
 * [Java 版必应每日桌面壁纸设置工具，支持 Windows 和 macOS](https://zixizixi.cn/windows-mac-bing-daily-wallpaper-tool)
 * [离线安装 VSCode 扩展组件方法及批量安装脚本分享](https://zixizixi.cn/vscode-extension-vsix-install)
-* [【笔记】Java 调用 COM 组件之 com4j 使用说明](https://zixizixi.cn/note-java-com4j)
 
 
 
