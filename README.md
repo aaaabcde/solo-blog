@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Delphi 2006 代码升级到 Delphi 11 注意事项](https://zixizixi.cn/articles/2021/10/21/1634794226331.html)
 * [Golang 中 JSON 信息值的序列化和反序列化](https://zixizixi.cn/golang-json-serializable)
 * [Emoji 表情符号在 Git 提交信息中的使用](https://zixizixi.cn/git-commit-emoji)
 * [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
@@ -29,7 +30,6 @@
 * [Windows 下 VSCode 使用 SSH 连接报 Bad owner or permissions on C:\\Users\\Administrator/.ssh/config 错误问题解决](https://zixizixi.cn/windows_vscode_ssh_error_bad-owner-or-permissions)
 * [Ubuntu/CentOS 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-centos-linux-install-gitlab)
 * [低版本浏览器（IE6+）页面兼容性问题相关处理](https://zixizixi.cn/low-version-browser-page-compatibility)
-* [在 Windows 10 系统上运行程序缓慢的解决办法](https://zixizixi.cn/windows-defender-app-startup-stop-slow)
 
 
 
