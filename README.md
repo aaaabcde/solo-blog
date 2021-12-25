@@ -10,11 +10,16 @@
 
 ### 最新
 
+* [GORM 读取别名字段（非表结构字段）值的方法](https://zixizixi.cn/golang-gorm-reads-value-of-the-alias-field)
+* [Golang 对象关系映射框架 GORM 实现自定义 SQL 提示](https://zixizixi.cn/golang-gorm-custom-table-hints)
+* [GitLab Markdown 代码块复制按钮油猴脚本](https://zixizixi.cn/gitlab-markdown-code-copy-tampermonkey)
 * [Delphi 2006 代码升级到 Delphi 11 注意事项](https://zixizixi.cn/articles/2021/10/21/1634794226331.html)
+* [使用 Office 打开下载的 xlsx 格式 Excel 文件报“文件已损坏，无法打开”错误问题处理](https://zixizixi.cn/windows-office-open-download-xlsx-excel-error-file-corrupted)
 * [Golang 中 JSON 信息值的序列化和反序列化](https://zixizixi.cn/golang-json-serializable)
 * [Emoji 表情符号在 Git 提交信息中的使用](https://zixizixi.cn/git-commit-emoji)
 * [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 * [从 JDK11 中提取 JRE](https://zixizixi.cn/jlink-jdk11-extract-jre11)
+* [WinRAR无广告版官方下载链接](https://zixizixi.cn/articles/2021/01/05/1609812421809.html)
 * [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
@@ -25,11 +30,6 @@
 * [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
 * [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 * [Git 临时储藏本地变更的 stash 命令常见用法](https://zixizixi.cn/git-bash-stash-usage)
-* [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
-* [Sonatype Nexus: Recommended file descriptor limit is 65536 but count is 4096.](https://zixizixi.cn/sonatype-nexus-3-linux-file-descriptor-limit)
-* [Windows 下 VSCode 使用 SSH 连接报 Bad owner or permissions on C:\\Users\\Administrator/.ssh/config 错误问题解决](https://zixizixi.cn/windows_vscode_ssh_error_bad-owner-or-permissions)
-* [Ubuntu/CentOS 安装配置 GitLab 命令行操作步骤](https://zixizixi.cn/ubuntu-centos-linux-install-gitlab)
-* [低版本浏览器（IE6+）页面兼容性问题相关处理](https://zixizixi.cn/low-version-browser-page-compatibility)
 
 
 
