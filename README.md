@@ -19,7 +19,6 @@
 * [Emoji 表情符号在 Git 提交信息中的使用](https://zixizixi.cn/git-commit-emoji)
 * [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 * [从 JDK11 中提取 JRE](https://zixizixi.cn/jlink-jdk11-extract-jre11)
-* [WinRAR无广告版官方下载链接](https://zixizixi.cn/articles/2021/01/05/1609812421809.html)
 * [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
@@ -30,6 +29,7 @@
 * [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
 * [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 * [Git 临时储藏本地变更的 stash 命令常见用法](https://zixizixi.cn/git-bash-stash-usage)
+* [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
 
 
 
