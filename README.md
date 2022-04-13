@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【笔记】Windows 系统网络连接配置添加多 DNS](https://zixizixi.cn/windows-tcp-ip-multiple-dns)
 * [GORM 读取别名字段（非表结构字段）值的方法](https://zixizixi.cn/golang-gorm-reads-value-of-the-alias-field)
 * [Golang 对象关系映射框架 GORM 实现自定义 SQL 提示](https://zixizixi.cn/golang-gorm-custom-table-hints)
 * [GitLab Markdown 代码块复制按钮油猴脚本](https://zixizixi.cn/gitlab-markdown-code-copy-tampermonkey)
@@ -29,7 +30,6 @@
 * [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
 * [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 * [Git 临时储藏本地变更的 stash 命令常见用法](https://zixizixi.cn/git-bash-stash-usage)
-* [赤峰市发展前景：在外地发展的赤峰人回老家能做什么](https://zixizixi.cn/talk-about-the-chifeng-future)
 
 
 
