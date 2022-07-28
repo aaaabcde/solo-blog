@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Golang 和 Python 的 OCR 服务安装及使用](https://zixizixi.cn/golang-python-ocr)
 * [Git 项目成员数量、提交次数、代码行数信息统计命令](https://zixizixi.cn/git-code-user-commit-line-count-stats)
 * [【笔记】Windows 系统网络连接配置添加多 DNS](https://zixizixi.cn/windows-tcp-ip-multiple-dns)
 * [GORM 读取别名字段（非表结构字段）值的方法](https://zixizixi.cn/golang-gorm-reads-value-of-the-alias-field)
@@ -29,7 +30,6 @@
 * [(My)Eclipse 中的 Java 项目使用 .jardesc 文件快速导出 jar 包文件](https://zixizixi.cn/my-eclipse-java-jardesc-export-jar)
 * [Java 版 Unicode 编码和字符串互转，支持混合内容解码](https://zixizixi.cn/java-unicode-string-encoder-decoder)
 * [沙拉查词浏览器插件自定义样式](https://zixizixi.cn/chromium-extensions-saladict-custom-style)
-* [Git Bash 命令之 reflog 查看引用的指向记录](https://zixizixi.cn/git-bash-reflog-usage)
 
 
 
