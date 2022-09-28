@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Linux 系统使用 CUPS 打印文件相关命令](https://zixizixi.cn/linux-unix-cups-printers-shell-command)
 * [JetBrains 系列 IDE 实用插件](https://zixizixi.cn/jetbrains-ide-plugins)
 * [GO 语言常用终端命令](https://zixizixi.cn/go-command)
 * [Golang 指针方法接收器是可以为 nil 的](https://zixizixi.cn/golang-methods-on-pointers-receiver-can-be-nil)
@@ -29,7 +30,6 @@
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
 * [为 Solo 添加文章内容过期提醒](https://zixizixi.cn/solo-article-content-expired-tips)
-* [File Browser 文件浏览器 Dark Theme 暗黑模式主题样式分享](https://zixizixi.cn/filebrowser-custom-dark-theme)
 
 
 
