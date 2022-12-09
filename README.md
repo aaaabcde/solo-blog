@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Windows 系统打印机相关操作命令](https://zixizixi.cn/windows-printer-printui-wmic-powershell)
 * [Linux 系统使用 CUPS 打印文件相关命令](https://zixizixi.cn/linux-unix-cups-printers-shell-command)
 * [JetBrains 系列 IDE 实用插件](https://zixizixi.cn/jetbrains-ide-plugins)
 * [GO 语言常用终端命令](https://zixizixi.cn/go-command)
@@ -29,7 +30,6 @@
 * [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 * [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 * [看板娘太单调？让你的看板娘不再孤独！](https://zixizixi.cn/solo-kanbanniang-adorn-border-background)
-* [为 Solo 添加文章内容过期提醒](https://zixizixi.cn/solo-article-content-expired-tips)
 
 
 
