@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go 语言面向对象编程特性的实现](https://zixizixi.cn/golang-oop)
 * [Go 模块 verifying xxx/go.mod: checksum mismatch 问题处理](https://zixizixi.cn/go-modules-verifying-checksum-mismatch)
 * [Windows 系统打印机相关操作命令](https://zixizixi.cn/windows-printer-printui-wmic-powershell)
 * [Linux 系统使用 CUPS 打印文件相关命令](https://zixizixi.cn/linux-unix-cups-printers-shell-command)
@@ -29,7 +30,6 @@
 * [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 * [从 JDK11 中提取 JRE](https://zixizixi.cn/jlink-jdk11-extract-jre11)
 * [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
-* [【笔记】修改 Gitlab 的数据保存目录](https://zixizixi.cn/configure-gitlab-data-dir)
 
 
 
