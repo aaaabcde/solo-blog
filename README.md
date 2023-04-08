@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【译文】Go 中的适配器模式](https://zixizixi.cn/the-adapter-pattern-in-go)
 * [Go 语言面向对象编程特性的实现](https://zixizixi.cn/golang-oop)
 * [Go 模块 verifying xxx/go.mod: checksum mismatch 问题处理](https://zixizixi.cn/go-modules-verifying-checksum-mismatch)
 * [Windows 系统打印机相关操作命令](https://zixizixi.cn/windows-printer-printui-wmic-powershell)
@@ -29,7 +30,6 @@
 * [Emoji 表情符号在 Git 提交信息中的使用](https://zixizixi.cn/git-commit-emoji)
 * [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 * [从 JDK11 中提取 JRE](https://zixizixi.cn/jlink-jdk11-extract-jre11)
-* [使用 Kotlin DSL 的 Gradle 中央仓库镜像源配置](https://zixizixi.cn/gradle-maven-kotlin-groovy-config)
 
 
 
