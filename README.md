@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【译文】Go 高级并发](https://zixizixi.cn/advanced-go-concurrency)
 * [查询实时性要求较低、并发读写冲突少的数据时启用脏读来提高读取性能](https://zixizixi.cn/enable-dirty-reads-in-database-query-sql)
 * [【译文】Go 中的适配器模式](https://zixizixi.cn/the-adapter-pattern-in-go)
 * [Go 语言面向对象编程特性的实现](https://zixizixi.cn/golang-oop)
@@ -29,7 +30,6 @@
 * [使用 Office 打开下载的 xlsx 格式 Excel 文件报“文件已损坏，无法打开”错误问题处理](https://zixizixi.cn/windows-office-open-download-xlsx-excel-error-file-corrupted)
 * [Golang 中 JSON 信息值的序列化和反序列化](https://zixizixi.cn/golang-json-serializable)
 * [Emoji 表情符号在 Git 提交信息中的使用](https://zixizixi.cn/git-commit-emoji)
-* [Go 对象关系映射框架 GORM 使用示例](https://zixizixi.cn/go-gorm-crud-example)
 
 
 
