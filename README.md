@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Go 语言使用 GORM 对象关系映射框架兼容多种数据库](https://zixizixi.cn/go-gorm-for-compatibility-with-multiple-databases)
+* [Go 语言使用原生 SQL 兼容多种数据库](https://zixizixi.cn/go-sql-for-compatibility-with-multiple-databases)
 * [多种数据库创建库或模式语法](https://zixizixi.cn/multiple-creation-database-or-schema-syntax)
 * [【译文】Go 高级并发](https://zixizixi.cn/advanced-go-concurrency)
 * [查询实时性要求较低、并发读写冲突少的数据时启用脏读来提高读取性能](https://zixizixi.cn/enable-dirty-reads-in-database-query-sql)
@@ -28,8 +30,6 @@
 * [Golang 对象关系映射框架 GORM 实现自定义 SQL 提示](https://zixizixi.cn/golang-gorm-custom-table-hints)
 * [GitLab Markdown 代码块复制按钮油猴脚本](https://zixizixi.cn/gitlab-markdown-code-copy-tampermonkey)
 * [Delphi 2006 代码升级到 Delphi 11 注意事项](https://zixizixi.cn/articles/2021/10/21/1634794226331.html)
-* [使用 Office 打开下载的 xlsx 格式 Excel 文件报“文件已损坏，无法打开”错误问题处理](https://zixizixi.cn/windows-office-open-download-xlsx-excel-error-file-corrupted)
-* [Golang 中 JSON 信息值的序列化和反序列化](https://zixizixi.cn/golang-json-serializable)
 
 
 
