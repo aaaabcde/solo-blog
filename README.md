@@ -2,7 +2,7 @@
 子兮子兮
 </h2>
 
-<h4 align="center">No can, but will.</h4>
+<h4 align="center">子兮子兮风兮寒，三江七泽情洄沿。</h4>
 <p align="center"><a title="子兮子兮" target="_blank" href="https://github.com/aaaabcde/solo-blog"><img src="https://img.shields.io/github/last-commit/aaaabcde/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/aaaabcde/solo-blog"><img src="https://img.shields.io/github/repo-size/aaaabcde/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
