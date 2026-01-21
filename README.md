@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [关于“长期维护”的几条现实教训](https://zixizixi.cn/long-term-maintenance-engineering-experience)
 * [MinIO 单机模式平滑迁移为集群模式](https://zixizixi.cn/minio-migration-singleton-to-cluster)
 * [Go 语言使用 GORM 对象关系映射框架兼容多种数据库](https://zixizixi.cn/go-gorm-for-compatibility-with-multiple-databases)
 * [Go 语言使用原生 SQL 兼容多种数据库](https://zixizixi.cn/go-sql-for-compatibility-with-multiple-databases)
@@ -29,7 +30,6 @@
 * [【笔记】Windows 系统网络连接配置添加多 DNS](https://zixizixi.cn/windows-tcp-ip-multiple-dns)
 * [GORM 读取别名字段（非表结构字段）值的方法](https://zixizixi.cn/golang-gorm-reads-value-of-the-alias-field)
 * [Golang 对象关系映射框架 GORM 实现自定义 SQL 提示](https://zixizixi.cn/golang-gorm-custom-table-hints)
-* [GitLab Markdown 代码块复制按钮油猴脚本](https://zixizixi.cn/gitlab-markdown-code-copy-tampermonkey)
 
 
 
