@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [一次 goroutine 泄露的排查过程](https://zixizixi.cn/troubleshooting-process-of-a-goroutine-leak)
 * [Go 服务中的 context 设计最佳实践](https://zixizixi.cn/best-practices-for-context-design-in-go-services)
 * [Go 服务在生产环境中稳定运行的几个关键设计点](https://zixizixi.cn/go-services-to-run-stably-in-production-environments)
 * [关于“长期维护”的几条现实教训](https://zixizixi.cn/long-term-maintenance-engineering-experience)
@@ -29,7 +30,6 @@
 * [Golang 指针方法接收器是可以为 nil 的](https://zixizixi.cn/golang-methods-on-pointers-receiver-can-be-nil)
 * [Golang 和 Python 的 OCR 服务安装及使用](https://zixizixi.cn/golang-python-ocr)
 * [Git 项目成员数量、提交次数、代码行数信息统计命令](https://zixizixi.cn/git-code-user-commit-line-count-stats)
-* [【笔记】Windows 系统网络连接配置添加多 DNS](https://zixizixi.cn/windows-tcp-ip-multiple-dns)
 
 
 
