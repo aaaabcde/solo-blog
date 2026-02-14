@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go 并发稳定性（1）：select 使用不当引发的三类并发问题](https://zixizixi.cn/go-concurrency-stability-1-select)
 * [RDP 剪贴板单向失效问题处理：Windows 远程桌面 mstsc 只能“远程→本地”，不能“本地→远程”](https://zixizixi.cn/windows-mstsc-rdp-clipboard-can-only-copy-in-one-direction)
 * [一次 goroutine 泄露的排查过程](https://zixizixi.cn/troubleshooting-process-of-a-goroutine-leak)
 * [Go 服务中的 context 设计最佳实践](https://zixizixi.cn/best-practices-for-context-design-in-go-services)
@@ -29,7 +30,6 @@
 * [JetBrains 系列 IDE 实用插件](https://zixizixi.cn/jetbrains-ide-plugins)
 * [GO 语言常用终端命令](https://zixizixi.cn/go-command)
 * [Golang 指针方法接收器是可以为 nil 的](https://zixizixi.cn/golang-methods-on-pointers-receiver-can-be-nil)
-* [Golang 和 Python 的 OCR 服务安装及使用](https://zixizixi.cn/golang-python-ocr)
 
 
 
