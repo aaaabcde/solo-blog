@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go 并发稳定性（3）：如何在生产环境监控 goroutine](https://zixizixi.cn/go-concurrency-stability-3-goroutine)
 * [Go 并发稳定性（2）：Go 中 channel 设计的常见误区](https://zixizixi.cn/go-concurrency-stability-2-channel)
 * [Go 并发稳定性（1）：select 使用不当引发的三类并发问题](https://zixizixi.cn/go-concurrency-stability-1-select)
 * [RDP 剪贴板单向失效问题处理：Windows 远程桌面 mstsc 只能“远程→本地”，不能“本地→远程”](https://zixizixi.cn/windows-mstsc-rdp-clipboard-can-only-copy-in-one-direction)
@@ -29,7 +30,6 @@
 * [Windows 系统打印机相关操作命令](https://zixizixi.cn/windows-printer-printui-wmic-powershell)
 * [Linux 系统使用 CUPS 打印文件相关命令](https://zixizixi.cn/linux-unix-cups-printers-shell-command)
 * [JetBrains 系列 IDE 实用插件](https://zixizixi.cn/jetbrains-ide-plugins)
-* [GO 语言常用终端命令](https://zixizixi.cn/go-command)
 
 
 
